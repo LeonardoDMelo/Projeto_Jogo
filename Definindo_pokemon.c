@@ -73,7 +73,7 @@ return ;
 int main()
 {
 int escolha = 0;
-
+printf("Bem vindo ao Pokemon\n");
 printf("Escolha um Pokemon: ");
 scanf("%i",&escolha);
 criando_Pokemon();
